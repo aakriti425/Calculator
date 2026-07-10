@@ -45,7 +45,7 @@ const operator = (num1, num2, currop) => {
         case "%":
             result = (num1 * num2)/100;
             break;
-        case "root":
+        case "root":``
             result = Math.sqrt(num1);
             break;
 
