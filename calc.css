@@ -33,11 +33,11 @@ body {
 }
 
 #calc-result {
-    padding:10px;
+    padding: 10px;
     padding-top: 45px;
     text-align: right;
-    
-} 
+
+}
 
 .calc-key {
     height: 4rem;
@@ -51,7 +51,7 @@ body {
     box-shadow: inset 1rem 0rem 0.9rem #b9968edb;
 }
 
-.calc-key:hover{
+.calc-key:hover {
     cursor: pointer;
     transform: scale(1.1);
 }
